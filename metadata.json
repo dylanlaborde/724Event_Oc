@@ -1,0 +1,49 @@
+{
+    "title": "724 Events",
+    "description": "Débogage et tests d'une application de gestion d'événements",
+    "technologies": [
+        "React",
+        "Chrome DevTools",
+        "Jest",
+        "React Testing Library"
+    ],
+    "features": [
+        "Liste des événements",
+        "Filtrage des événements",
+        "Galerie d'images",
+        "Formulaire de contact"
+    ],
+    "competences": [
+        "Débugger un site web grâce aux Chrome DevTools",
+        "Rédiger un cahier de recette pour tester un site"
+    ],
+    "debug_process": {
+        "outils_utilises": [
+            "Console Chrome DevTools",
+            "Debugger",
+            "Network Panel",
+            "Performance Panel",
+            "React DevTools"
+        ],
+        "bugs_corriges": [
+            "Correction des erreurs de rendu",
+            "Résolution des problèmes de performance",
+            "Correction des événements utilisateur",
+            "Réparation du filtrage des données"
+        ]
+    },
+    "tests": {
+        "types": [
+            "Tests fonctionnels",
+            "Tests d'interface",
+            "Tests de régression",
+            "Tests de compatibilité"
+        ],
+        "documentation": [
+            "Cahier de recette détaillé",
+            "Scénarios de test",
+            "Cas de test",
+            "Résultats attendus"
+        ]
+    }
+}
